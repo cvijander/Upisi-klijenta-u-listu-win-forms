@@ -1,0 +1,17 @@
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Upisi klijenta u listu\Upisi klijenta u listu\bin\Debug\net6.0-windows\Upisi klijenta u listu.exe
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Upisi klijenta u listu\Upisi klijenta u listu\bin\Debug\net6.0-windows\Upisi klijenta u listu.deps.json
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Upisi klijenta u listu\Upisi klijenta u listu\bin\Debug\net6.0-windows\Upisi klijenta u listu.runtimeconfig.json
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Upisi klijenta u listu\Upisi klijenta u listu\bin\Debug\net6.0-windows\Upisi klijenta u listu.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Upisi klijenta u listu\Upisi klijenta u listu\bin\Debug\net6.0-windows\Upisi klijenta u listu.pdb
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Upisi klijenta u listu\Upisi klijenta u listu\obj\Debug\net6.0-windows\Upisi klijenta u listu.csproj.AssemblyReference.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Upisi klijenta u listu\Upisi klijenta u listu\obj\Debug\net6.0-windows\Upisi_klijenta_u_listu.Form1.resources
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Upisi klijenta u listu\Upisi klijenta u listu\obj\Debug\net6.0-windows\Upisi klijenta u listu.csproj.GenerateResource.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Upisi klijenta u listu\Upisi klijenta u listu\obj\Debug\net6.0-windows\Upisi klijenta u listu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Upisi klijenta u listu\Upisi klijenta u listu\obj\Debug\net6.0-windows\Upisi klijenta u listu.AssemblyInfoInputs.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Upisi klijenta u listu\Upisi klijenta u listu\obj\Debug\net6.0-windows\Upisi klijenta u listu.AssemblyInfo.cs
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Upisi klijenta u listu\Upisi klijenta u listu\obj\Debug\net6.0-windows\Upisi klijenta u listu.csproj.CoreCompileInputs.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Upisi klijenta u listu\Upisi klijenta u listu\obj\Debug\net6.0-windows\Upisi klijenta u listu.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Upisi klijenta u listu\Upisi klijenta u listu\obj\Debug\net6.0-windows\refint\Upisi klijenta u listu.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Upisi klijenta u listu\Upisi klijenta u listu\obj\Debug\net6.0-windows\Upisi klijenta u listu.pdb
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Upisi klijenta u listu\Upisi klijenta u listu\obj\Debug\net6.0-windows\Upisi klijenta u listu.genruntimeconfig.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Upisi klijenta u listu\Upisi klijenta u listu\obj\Debug\net6.0-windows\ref\Upisi klijenta u listu.dll
